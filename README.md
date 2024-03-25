@@ -1,7 +1,7 @@
 # Artificial-Intelligence (ML-DL)
 This repository consists on various Machine learning, Deep learning, Neural Network Based Artificial Intelligence projects 
 
-# Python Practice with Numpay
+# 1. Python Practice with Numpay
 This practice enable us to make machine learning and deep learning pojects effeciently.
 
 # 2. Logistic Regression with a Neural Network Mindset
